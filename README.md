@@ -43,8 +43,12 @@ The **New Quotes App** was developed to provide a platform where users can find 
 
 <h1></h1>
 
+## Video Demo
+
 <div align="center">
-  [![YouTube](http://i.ytimg.com/vi/zKIaIi2oUh8/hqdefault.jpg)](https://www.youtube.com/watch?v=zKIaIi2oUh8)
+  
+  [![Watch the video](http://i.ytimg.com/vi/zKIaIi2oUh8/hqdefault.jpg)](https://www.youtube.com/watch?v=zKIaIi2oUh8)
+  
 </div>
 
 
