@@ -45,6 +45,16 @@ The **New Quotes App** was developed to provide a platform where users can find 
 
 ## Video Demo
 
+<div align="center">
+
+
+https://github.com/user-attachments/assets/9a812c4f-55cb-43c0-9c7c-352c7dacd2ff
+
+
+
+
+</div>
+
 https://youtu.be/zKIaIi2oUh8?si=of6PadZKi6ni1F4D
 
 
