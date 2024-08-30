@@ -45,7 +45,7 @@ The **New Quotes App** was developed to provide a platform where users can find 
 
 ## Video Demo
 
-
+https://youtu.be/zKIaIi2oUh8?si=of6PadZKi6ni1F4D
 
 
 ## Check out this LinkedIn Post
