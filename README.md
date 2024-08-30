@@ -52,5 +52,8 @@ The **New Quotes App** was developed to provide a platform where users can find 
 </div>
 
 
+## Check out this LinkedIn Post
+
+I recently shared a post on LinkedIn about [topic]. You can view it [here](https://www.linkedin.com/feed/update/urn:li:ugcPost:7235169860572372992).
 
 
