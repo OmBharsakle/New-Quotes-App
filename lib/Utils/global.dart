@@ -750,6 +750,7 @@ void favBottomSheet(BuildContext context) {
                         onTap: () async {
                           await Getx.readCategoryRecord(category);
                           _favCategoryBottomSheet(context);
+
                         },
                         child: Container(
                           width: 200,
