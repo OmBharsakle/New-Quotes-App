@@ -49,6 +49,7 @@ dependencies:
   share_extend: ^2.0.0
   flutter_sharing_intent: ^1.1.1
   flutter_wallpaper_manager: ^0.0.4
+  device_preview: ^1.2.0
 
 dev_dependencies:
   flutter_test:
